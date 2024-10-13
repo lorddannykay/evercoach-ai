@@ -1,4 +1,5 @@
-import React from "react";
+import * as React from "react";
+
 
 // This component replaces the previous HumeLogo with the Foundever logo.
 const FoundeverLogo = () => (
